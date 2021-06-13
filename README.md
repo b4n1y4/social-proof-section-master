@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-section-1ht8YzdUl/edit)
-- Live Site URL: [Add live site URL here](https://b4n1y4.github.io/social-proof-section-master/)
+- Solution URL: [See Frontend mentor solution here](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-section-1ht8YzdUl/edit)
+- Live Site URL: [Live site](https://b4n1y4.github.io/social-proof-section-master/)
 
 ## Author
 
