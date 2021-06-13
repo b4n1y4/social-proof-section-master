@@ -26,16 +26,16 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop design Screenshot](./desktop-design-screenshot)
-![Mobile design Screenshot](./mobile-design-screenshot)
+![](./desktop-design-screenshot.jpg)
+![](./mobile-design-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-section-1ht8YzdUl/edit)
+- Live Site URL: [Add live site URL here](https://b4n1y4.github.io/social-proof-section-master/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Ritesh Gupta](https://www.github.com/b4n1y4)
+- Frontend Mentor - [@b4n1y4](https://www.frontendmentor.io/profile/b4n1y4)
+- Twitter - [@b4n1y4](https://www.twitter.com/b4n1y4)
